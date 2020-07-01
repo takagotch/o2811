@@ -1,4 +1,4 @@
-### | snippets18
+### Bootstrap Registration Page with Floating Labels | snippets18
 ---
 
 
